@@ -1,0 +1,12 @@
+.margin-1{
+    background-color: hsl(330, 50%, 70%);
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+}
+.margin-2{
+    background-color: hsl(194, 76%, 60%);
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+}
